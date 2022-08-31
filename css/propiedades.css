@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img-fluid{
+    margin-top: 20px;
+     
+}
+.contenedor{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.piedepagina{
+    margin-top: 150px;
+}
+h4{
+    text-align: center;
+        
+}
+.row{
+    margin-top: 50px;
+}
+
+.carousel{
+    position: absolute;
+    width: 60%;
+    height: auto;
+    margin-left: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.contenedor-img{
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.contenedor2{
+    margin-right: 30px;
+    margin-top: 70px;
+   
+}
+.registro{
+    margin-top: 500px;
+}
+.contenedor-padre{
+    display: flex;
+}
