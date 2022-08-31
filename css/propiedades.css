@@ -47,3 +47,16 @@ h4{
 .contenedor-padre{
     display: flex;
 }
+.lugares{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.titulo{
+    margin-top: 70px;
+    margin-left: 20px;
+}  
+.titulo2{ 
+    margin-left: 20px;
+    margin-top: 70px;
+}  
