@@ -7,5 +7,9 @@ body{
         justify-content: space-evenly;
         text-align: center;
     }
+    h1{
+        @extend %headin;
+        font-size: 2rem;
+    }
 
 }
