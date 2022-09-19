@@ -57,7 +57,7 @@ ul{
 .footer{
     background-color: #24262b;
     padding: 40px 0;
-    margin-top: 300px;
+    margin-top: 150px;
     height: 400px;
     
 }
@@ -263,4 +263,18 @@ body {
 } 
 #cal #cal-frame table.temp { 
     position:absolute; 
+}
+.clearfix{
+    width: 1000px;
+    height: auto;
+    margin-left: 40px;
+}
+.carousel-item{
+    width: auto;
+    height: 500px;
+    max-height: 1550px;
+  
+}
+.contenedor-img{
+    margin-left: 10px;
 }
