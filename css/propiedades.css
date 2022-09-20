@@ -118,8 +118,8 @@ ul{
 .actividades{
     margin-top: 30px;
     display: flex;
-    justify-content: space-evenly;
     text-align: center;
+    justify-content: space-around;
     
 }
 .alinear {
@@ -135,10 +135,10 @@ body {
     background: #e0e0e0; 
 } 
 #cal { 
-    margin:70px auto; 
+    margin:50px auto; 
     font: 13px/1.5 "Helvetica Neue", Helvatica, Arial, san-serif; 
     display:table; 
-    width: 500px;
+    width: 300px;
 }
 #cal .header { 
     cursor:default; 
@@ -224,7 +224,7 @@ body {
 } 
 #cal #days td { 
     height:52px; 
-    width: 500px;
+    width: 300px;
     line-height: 26px; 
     text-transform:uppercase; 
     font-size:90%; 
@@ -254,26 +254,15 @@ body {
     bottom:5px; 
 } 
 #cal #cal-frame td span:last-child { 
-    top:5px; 
+    top: 5px; 
 }
 #cal #cal-frame table.curr { 
     float:left; 
-    width: 500px; 
+    width: 350px; 
     height: 300px;    
 } 
 #cal #cal-frame table.temp { 
     position:absolute; 
-}
-.clearfix{
-    width: 1000px;
-    height: auto;
-    margin-left: 40px;
-}
-.carousel-item{
-    width: auto;
-    height: 500px;
-    max-height: 1550px;
-  
 }
 .contenedor-img{
     margin-left: 10px;
